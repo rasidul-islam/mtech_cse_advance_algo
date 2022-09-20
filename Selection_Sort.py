@@ -1,4 +1,4 @@
-# Write a Python program to implement Selection sort :: Advance Algorithm Assignment 1 :: MD RASIDUL ISLAM
+# Write a Python program to implement Selection sort :: Advance Algorithm Assignment :: MD RASIDUL ISLAM
 
 import sys
 A = [64, 25, 12, 22, 11]
